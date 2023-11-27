@@ -22,14 +22,17 @@ const Cards = () => {
                   building, and surviving. Unleash your creativity with
                   simplified graphics, quests, and multiplayer adventures.
                 </p>
-                <div>
-                  <button className="cardBtn">
-                    Live Demo  <FaExternalLinkAlt />
-                  </button>
-                  <button className="cardBtn">
-                    Source code  <FaGithub />
-
-                  </button>
+                <div className="gotoBtn">
+                  <a href="https://jade-marzipan-74d95a.netlify.app">
+                    <button className="cardBtn">
+                      Live Demo <FaExternalLinkAlt />
+                    </button>
+                  </a>
+                  <a href="https://github.com/RSSinai/minecraft/tree/main/weekend_16_11">
+                    <button className="cardBtn">
+                      Source code <FaGithub />
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -42,14 +45,17 @@ const Cards = () => {
                   building, and surviving. Unleash your creativity with
                   simplified graphics, quests, and multiplayer adventures.
                 </p>
-                <div>
-                  <button className="cardBtn">
-                    Live Demo  <FaExternalLinkAlt />
-                  </button>
-                  <button className="cardBtn">
-                    Source code  <FaGithub />
-
-                  </button>
+                <div className="gotoBtn">
+                  <a href="https://jade-marzipan-74d95a.netlify.app">
+                    <button className="cardBtn">
+                      Live Demo <FaExternalLinkAlt />
+                    </button>
+                  </a>
+                  <a href="https://github.com/RSSinai/minecraft/tree/main/weekend_16_11">
+                    <button className="cardBtn">
+                      Source code <FaGithub />
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -62,14 +68,17 @@ const Cards = () => {
                   building, and surviving. Unleash your creativity with
                   simplified graphics, quests, and multiplayer adventures.
                 </p>
-                <div>
-                  <button className="cardBtn">
-                    Live Demo  <FaExternalLinkAlt />
-                  </button>
-                  <button className="cardBtn">
-                    Source code  <FaGithub />
-
-                  </button>
+                <div className="gotoBtn">
+                  <a href="https://jade-marzipan-74d95a.netlify.app">
+                    <button className="cardBtn">
+                      Live Demo <FaExternalLinkAlt />
+                    </button>
+                  </a>
+                  <a href="https://github.com/RSSinai/minecraft/tree/main/weekend_16_11">
+                    <button className="cardBtn">
+                      Source code <FaGithub />
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
