@@ -5,7 +5,7 @@ import './ContactUs.css'
 
 const ContactUs = () => {
   return (
-    <div className='contactWrapper'>
+    <div id='contactWrapper'>
         <div className='contact-container'>
         <div>
 <h3>contact</h3>
@@ -13,12 +13,12 @@ const ContactUs = () => {
 </div>
         <div className='socialContact'>
             <div className='socialLocation'>
-            <div className='socialCircle'><FaLocationDot color='rgb(20, 126, 251)'/></div>
+            <span className='socialCircle'><FaLocationDot color='rgb(20, 126, 251)'/></span>
             <h3>Location</h3>
             <a>Tel Aviv, Israel</a>
             </div>
             <div className='socialMail'>
-            <div className='socialCircle'><IoMdMail color='rgb(20, 126, 251)'/></div>
+            <span className='socialCircle'><IoMdMail color='rgb(20, 126, 251)'/></span>
             <h3>Mail</h3>
             <a>test@test.com</a>
             </div>

@@ -10,13 +10,14 @@ const App = () => {
   return (
     <div>
       <Navbar />
+      <div className="container">
       <section>
         <Hero />
       </section>
       <section>
         <About />
       </section>
-      <section className="cardSection">
+      <section>
         <Cards />
       </section>
       <section className="contactUs">
@@ -25,6 +26,7 @@ const App = () => {
       <section>
         <Footer/> 
       </section>
+      </div>
     </div>
   );
 };
