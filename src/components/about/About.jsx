@@ -6,19 +6,21 @@ const About = () => {
     <div id="aboutWrapper">
       <div className="aboutImg">
         <div className="imgTag">
-        <img src="../../../public/hat.jpeg" className="circleTag"></img>
+          <img src="../../../public/hat.jpeg" className="circleTag"></img>
           <img src="../../../public/rotate.svg" className="imageTag" />
-          
         </div>
       </div>
       <div className="aboutText">
         <h3>ABOUT ME</h3>
         <h4>A dedicated Front-end Developer based in Tel Aviv, Israel 📍</h4>
         <p className="aboutTextP">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
-          inventore et facere quod, accusamus ipsa explicabo dolorem eveniet
-          dicta veritatis veniam consequuntur unde omnis ullam quam? Magni quas
-          nesciunt reprehenderit!
+          I'm an applied mathematics student residing in Tel-Aviv, but my heart
+          belongs to Haifa, where I was raised. With 2 years in web development,
+          my expertise lies in front-end development with React, driven by my
+          early years in QA roles. Passionate
+          about Greek 🇬🇷 Food, Music, and Philosophy, I unwind through boat
+          cruising at the Sailor Jaffa club, horseback riding, and collecting
+          local art.
         </p>
       </div>
     </div>

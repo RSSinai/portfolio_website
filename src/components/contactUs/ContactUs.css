@@ -27,3 +27,9 @@ p{
     margin: 10px;
     border-radius: 50%;
 }
+
+.emailLink
+{
+    text-decoration: none;
+    color: black;
+}

@@ -33,8 +33,46 @@ const Cards = () => {
                 </div>
               </div>
             </div>
-            <div className="card"></div>
-            <div className="card"></div>
+            <div className="card">
+              <div className="image"></div>
+              <div className="info">
+                <h3 className="cardInfoTitle">Minecraft 2D</h3>
+                <p className="cardInfo">
+                  Explore a pixelated universe in Minecraft 2D, crafting,
+                  building, and surviving. Unleash your creativity with
+                  simplified graphics, quests, and multiplayer adventures.
+                </p>
+                <div>
+                  <button className="cardBtn">
+                    Live Demo  <FaExternalLinkAlt />
+                  </button>
+                  <button className="cardBtn">
+                    Source code  <FaGithub />
+
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div className="card">
+              <div className="image"></div>
+              <div className="info">
+                <h3 className="cardInfoTitle">Minecraft 2D</h3>
+                <p className="cardInfo">
+                  Explore a pixelated universe in Minecraft 2D, crafting,
+                  building, and surviving. Unleash your creativity with
+                  simplified graphics, quests, and multiplayer adventures.
+                </p>
+                <div>
+                  <button className="cardBtn">
+                    Live Demo  <FaExternalLinkAlt />
+                  </button>
+                  <button className="cardBtn">
+                    Source code  <FaGithub />
+
+                  </button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

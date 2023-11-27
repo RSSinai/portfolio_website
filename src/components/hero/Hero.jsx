@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import { AiOutlineLinkedin } from "react-icons/ai";
+import { FaLinkedin } from "react-icons/fa";
 import { FiGithub } from "react-icons/fi";
 
 const Hero = () => {
@@ -13,10 +13,11 @@ const Hero = () => {
           Tel Aviv, Israel. 📍
         </p>
         <span>
-          <a className="socialIntro">
-            <AiOutlineLinkedin size={32}/>
+          <a href="https://www.linkedin.com/in/ronysinai/" className="socialIntro">
+            <FaLinkedin  size={32}/> 
+
           </a>
-          <a className="socialIntro">
+          <a href="https://github.com/RSSinai" className="socialIntro">
             <FiGithub size={32}/>
           </a>
         </span>

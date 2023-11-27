@@ -20,7 +20,7 @@ const ContactUs = () => {
             <div className='socialMail'>
             <span className='socialCircle'><IoMdMail color='rgb(20, 126, 251)'/></span>
             <h3>Mail</h3>
-            <a>test@test.com</a>
+            <a href='mailto:rony.sinai@gmail.com' className='emailLink'>rony.sinai@gmail.com</a>
             </div>
         </div>
         </div>
