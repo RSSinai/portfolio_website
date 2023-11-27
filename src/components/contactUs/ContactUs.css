@@ -1,0 +1,29 @@
+.contactWrapper
+{
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.socialContact
+{
+    display: flex;
+    gap: 30px;
+}
+h3{
+    font-size: 17px;
+    font-weight: 700;
+    color: #147efb;
+}
+p{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.socialCircle
+{
+    margin: 10px;
+    border-radius: 50%;
+}

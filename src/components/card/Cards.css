@@ -1,0 +1,12 @@
+.cardsWrapper
+{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 45%
+}
+.card
+{
+    width: 300px;
+    height: 100px;
+    background-color: blue;
+    margin-bottom: 20px;
+}
