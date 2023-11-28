@@ -5,10 +5,11 @@
 
 .heroWrapper {
   background-color: #f9f9f9;
-  height: 125vh;
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-top: 5%;
 }
 
 .introImg {
