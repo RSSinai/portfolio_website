@@ -60,7 +60,7 @@ Usage
 
 Folder Structure
 ----------------
-
+```
 ├── README.md
 ├── index.html
 ├── package-lock.json
@@ -104,7 +104,7 @@ Folder Structure
 │   │       └── Navbar.jsx
 │   └── main.jsx
 └── vite.config.js
-
+```
 10 directories, 34 files
 
 
