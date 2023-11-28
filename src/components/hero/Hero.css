@@ -5,11 +5,10 @@
 
 .heroWrapper {
   background-color: #f9f9f9;
-  height: 90vh;
+  height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 5%;
 }
 
 .introImg {
@@ -20,7 +19,7 @@
   background-size: cover;
   border: 3px solid #2d2e32;
   border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
-  height: 25rem;
+  height: 35rem;
   position: relative;
   transition: all 1s ease-in-out;
   width: 35rem;
