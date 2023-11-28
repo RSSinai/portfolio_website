@@ -1,7 +1,9 @@
 React Portfolio Website
 =======================
 
-This project is a simple portfolio website built using React. It serves as a showcase for your skills, projects, and personal information.
+1. This Project was manually (building component from scratch) copied completely from "https://www.stefantopalovic.com/" Stefan Topalovic after watching a short youtube praising him.
+
+2. This project is a simple portfolio website built using React. It serves as a showcase for your skills, projects, and personal information.
 
 Table of Contents
 -----------------
@@ -59,15 +61,57 @@ Usage
 Folder Structure
 ----------------
 
-cssCopy code
+├── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── public
+│   ├── about-img.62b47e7f183d4b4e9feb.webp
+│   ├── dribbble.png
+│   ├── facebook.png
+│   ├── favicon.ico
+│   ├── flights.png
+│   ├── hat.jpeg
+│   ├── instagram.png
+│   ├── minecraft.png
+│   ├── people.webp
+│   ├── profilepicnew.jpg
+│   ├── rotate.png
+│   ├── rotate.svg
+│   ├── scroll.png
+│   └── youtube.png
+├── src
+│   ├── App.css
+│   ├── App.jsx
+│   ├── components
+│   │   ├── about
+│   │   │   ├── About.css
+│   │   │   └── About.jsx
+│   │   ├── card
+│   │   │   ├── Cards.css
+│   │   │   └── Cards.jsx
+│   │   ├── contactUs
+│   │   │   ├── ContactUs.css
+│   │   │   └── ContactUs.jsx
+│   │   ├── footer
+│   │   │   ├── Footer.css
+│   │   │   └── Footer.jsx
+│   │   ├── hero
+│   │   │   ├── Hero.css
+│   │   │   └── Hero.jsx
+│   │   └── navbar
+│   │       ├── Navbar.css
+│   │       └── Navbar.jsx
+│   └── main.jsx
+└── vite.config.js
 
-`react-portfolio/ │ ├── public/ │   ├── index.html │   └── ... │ ├── src/ │   ├── components/ │   │   ├── Header.js │   │   ├── About.js │   │   ├── Projects.js │   │   ├── Skills.js │   │   ├── Contact.js │   │   └── ... │   │ │   ├── App.js │   ├── index.js │   └── ... │ ├── .gitignore ├── package.json ├── README.md └── ...`
+10 directories, 34 files
+
 
 Technologies Used
 -----------------
 
 *   [React](https://reactjs.org/)
-*   [React Router](https://reactrouter.com/)
 *   [CSS Modules](https://github.com/css-modules/css-modules)
 
 Contributing
