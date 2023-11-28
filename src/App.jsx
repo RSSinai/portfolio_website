@@ -11,7 +11,7 @@ const App = () => {
     <div>
       <Navbar />
       <div className="container">
-      <section>
+      <section >
         <Hero />
       </section>
       <section>
