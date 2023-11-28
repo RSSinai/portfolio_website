@@ -6,7 +6,7 @@ const About = () => {
     <div id="aboutWrapper">
       <div className="aboutImg">
         <div className="imgTag">
-          <img src="../../../public/hat.jpeg" className="circleTag"></img>
+          <img src="https://i.ibb.co/pw5wz46/hat.jpg" className="circleTag"></img>
           <img src="../../../public/rotate.svg" className="imageTag" />
         </div>
       </div>
